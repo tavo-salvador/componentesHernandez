@@ -1,0 +1,10 @@
+.row{
+    height: calc(100vh - 60px);
+    display: flex;
+}
+.col-1{
+    width: 40%;
+}
+.col-2{
+    width: 60%;
+}
